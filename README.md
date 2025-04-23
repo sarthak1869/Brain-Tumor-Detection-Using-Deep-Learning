@@ -24,13 +24,13 @@ The dataset used consists of brain MRI images labeled into four categories. Each
   - VGG-16 and ResNet-50: 224x224
 - Classes: Glioma, Meningioma, Pituitary, No Tumor
 
-🛠️ Models Used
+# Models Used
 
 - LeNet: A simple CNN model for baseline comparisons.
 - ResNet-50: A deep residual network with 50 layers to learn more complex patterns.
 - VGG-16: A 16-layer CNN known for its depth and simplicity.
 
-🧪 Model Evaluation
+# Model Evaluation
 
 Each model was trained and evaluated on a train-validation-test split. Evaluation metrics include:
 
@@ -41,7 +41,7 @@ Each model was trained and evaluated on a train-validation-test split. Evaluatio
 - Confusion Matrix
 - ROC AUC Score
 
-📊 Results
+# Results
 
 | Model     | Accuracy |
 |-----------|----------|
@@ -51,7 +51,7 @@ Each model was trained and evaluated on a train-validation-test split. Evaluatio
 
 > Replace `XX%` with your actual results after evaluation.
 
-📝 Requirements
+# Requirements
 
 Install dependencies using pip:
 
