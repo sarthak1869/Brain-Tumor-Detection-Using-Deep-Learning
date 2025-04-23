@@ -19,6 +19,10 @@ To build a robust deep learning pipeline that can accurately detect and classify
 
 The dataset used consists of brain MRI images labeled into four categories. Each image was preprocessed and resized to match the input requirements of the respective models.
 
+The dataset used for this project can be downloaded from the following link:
+
+🔗 [Download Brain Tumor Dataset (Kaggle)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
 - Image Size:
   - LeNet: 32x32
   - VGG-16 and ResNet-50: 224x224
